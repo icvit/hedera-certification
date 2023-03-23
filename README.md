@@ -1,2 +1,2 @@
-# hedera-certification
-Repo for Hedera Certification
+# Logs from the assignments
+## Assignment #1
